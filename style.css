@@ -1,0 +1,19 @@
+.main 
+{
+	color: orange;
+}
+
+button {
+  width: 80%;
+  height: 50px;
+  font-size: 18px;
+  font-weight: bold;
+
+  /* ボタンにカーソルを当てると、カーソルがポインターに変わる */
+  cursor: pointer;
+}
+
+/* クリックで表示させるテキストを隠す */
+.hidden {
+  display: none;
+}
